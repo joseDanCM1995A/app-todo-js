@@ -8,4 +8,4 @@ Desarrollo
 ============================
 -html
 -css
--js
+-vuejs
